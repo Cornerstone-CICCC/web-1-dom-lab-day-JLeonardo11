@@ -51,5 +51,12 @@ body {
   flex: 1;
   padding: 0.25rem;
 }
+tr{
+  background: grey;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 10px;
+    padding: 10px;
+}
 
 /*# sourceMappingURL=styles.css.map */
